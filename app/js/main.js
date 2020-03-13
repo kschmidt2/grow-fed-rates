@@ -53,7 +53,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     text: null
                 },
                 data: {
-                    googleSpreadsheetKey: '19gPNciBoaDoDN3R5Ws2SQxBfrVL2jGk486llItuIvCE'
+                    googleSpreadsheetKey: '19gPNciBoaDoDN3R5Ws2SQxBfrVL2jGk486llItuIvCE',
+                    googleSpreadsheetWorksheet: 2
                 },
                 plotOptions: {
                     series: {
